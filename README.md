@@ -1,2 +1,2 @@
-# FOM-qr-reader
+# FOM-qr-page
  
